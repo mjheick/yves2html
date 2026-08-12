@@ -3,7 +3,7 @@ Convert a YouVersion Bible to html file. They will have an extension of yves.
 
 # build
 ```
-  make
+make
 ```
 
 # Running
