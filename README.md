@@ -1,5 +1,5 @@
 # yves2html
-Convert a [YouVersion Bible[(https://www.youversion.com) yves file to HTML.
+Convert a [YouVersion Bible](https://www.youversion.com) yves file to HTML.
 
 # build
 clone archive and run make.
