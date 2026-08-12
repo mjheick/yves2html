@@ -46,4 +46,5 @@ int main(int argc, char *argv[]) {
 	fclose(yves);
 	fclose(html);
 	printf("done\n");
+	return 0;
 }
