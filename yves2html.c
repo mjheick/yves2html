@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
 		return 1;
 	}
 
-	html_filename = (char *)malloc(strlen(argv[1]) + 5);
+	html_filename = (char *)malloc(strlen(argv[1]) + 6);
 	strcat(html_filename, argv[1]);
 	strcat(html_filename, ".html");
 	printf("> Creating %s\n", html_filename);
